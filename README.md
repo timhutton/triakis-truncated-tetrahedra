@@ -8,3 +8,5 @@ Papercraft pattern for making [triakis truncated tetrahedra](https://en.wikipedi
 Photo:
 
 <img width="600" src="https://user-images.githubusercontent.com/647092/35068205-480b0c38-fbce-11e7-937d-67467952af98.png">
+
+I got as far as making one before getting bored. Let me know if you manage to make more!
