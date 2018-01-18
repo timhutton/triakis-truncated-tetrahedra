@@ -10,3 +10,7 @@ Photo:
 <img width="600" src="https://user-images.githubusercontent.com/647092/35068205-480b0c38-fbce-11e7-937d-67467952af98.png">
 
 I got as far as making one before getting bored. Let me know if you manage to make more!
+
+----
+
+You might be wondering if there are other shapes that fill space. It turns out that there are. [Here are a few symmetric ones](https://timhutton.github.io/2012/09/14/36313.html). There are [many other less symmetric ones](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra.5B2.5D).
