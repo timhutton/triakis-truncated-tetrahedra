@@ -96,7 +96,7 @@ with open(output_file_title+'.svg','w') as f:
         r = 4
         s = 1.02
         f.write('  <use xlink:href="#ttt_net" transform="scale('+str(s)+') rotate('+str(r)+' '+str(x)+' '+str(y)+') translate('+str(x)+' '+str(y)+')" />\n')
-    f.write('  <text x="20" y="30" class="label" writing-mode="tb-rl">Papercraft Triakis Truncated Tetrahedron - http://github.com/timhutton/</text>\n')
+    f.write('  <text x="20" y="30" class="label" writing-mode="tb-rl">Papercraft Triakis Truncated Tetrahedron - http://github.com/timhutton/triakis-truncated-tetrahedra</text>\n')
     f.write('</svg>\n')
 print('Wrote '+output_file_title+'.svg. To convert to PDF:')
 print('inkscape --export-pdf='+output_file_title+'.pdf '+output_file_title+'.svg')
