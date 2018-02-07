@@ -1,13 +1,13 @@
-[Triakis truncated tetrahedra](https://en.wikipedia.org/wiki/Triakis_truncated_tetrahedron) have the property of packing neatly in 3D space if you have enough of them:
+[Triakis truncated tetrahedra](https://en.wikipedia.org/wiki/Triakis_truncated_tetrahedron) have the property of packing neatly in 3D space, if you have enough of them:
 
 <img width="600" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Triakis_truncated_tetrahedral_honeycomb.jpg">
 
-You might be wondering if there are other shapes that fill space. It turns out that there are. [Here are a few symmetric ones](https://timhutton.github.io/2012/09/14/36313.html). There are [many other less symmetric ones](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra.5B2.5D).
+There are a few other shapes that fill space. [Here are a few symmetric ones](https://timhutton.github.io/2012/09/14/36313.html). There are [many other less symmetric ones](https://en.wikipedia.org/wiki/Honeycomb_(geometry)#Space-filling_polyhedra.5B2.5D).
 
 3D Printing
 ===========
 
-Send ttt_mm.stl to your favourite printing service and they will post you these:
+Send [ttt_mm.stl](https://github.com/timhutton/triakis-truncated-tetrahedra/blob/master/ttt_mm.stl) to your favourite printing service and they will post you these:
 
 ![img_20180207_153901](https://user-images.githubusercontent.com/647092/35928052-1c9c08d4-0c24-11e8-9e70-e96d5a5ecb44.jpg)
 
