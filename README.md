@@ -16,7 +16,7 @@ Papercraft model
 
 If you want to make your tetrahedra out of card you can print this template:
 
-<a href="https://github.com/timhutton/triakis-truncated-tetrahedron/raw/master/ttt.pdf">PDF:<br><img width="400" src="https://user-images.githubusercontent.com/647092/35068305-94964950-fbce-11e7-9078-7835f26b27f0.png"></a>
+<a href="https://raw.githubusercontent.com/timhutton/triakis-truncated-tetrahedra/main/ttt.pdf">PDF:<br><img width="400" src="https://user-images.githubusercontent.com/647092/35068305-94964950-fbce-11e7-9078-7835f26b27f0.png"></a>
 
 Photo:
 
